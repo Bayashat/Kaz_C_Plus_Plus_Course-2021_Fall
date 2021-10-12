@@ -10,11 +10,11 @@ using namespace std;
 int main()
 {
 
-    int ABC = 1000; // 4 byte
-    ABC = 2000;
+    int qq = 1000; // 4 byte
+    qq = 2000;
 
     
-    cout << ABC;
+    cout << qq;
 
     return 0;
 }

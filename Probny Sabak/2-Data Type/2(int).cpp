@@ -1,7 +1,7 @@
 
 
 /*
-            1.Int 
+            1.Int  :   1 2 3  4 5 6   -1  -879  -78 
 
 formula:   int  атауы = бастапқы мәні;
         int b = 10; 
@@ -16,8 +16,24 @@ using namespace std;
 
 
 int main()
-{       
-        int a = 32768;
+{  
+
+        int a = 5;
+        int b = 2;
+        cout << a/b << endl;    // 5/2 = 2.5
+
+        cout << (1/2) << endl;  // 0.5
+
+        // % - модуль - екы санды болгенде шыгатын калдыгын есептейды
+        cout << (5%2) << endl; // 1
+
+
+        cout << (2%5) << endl;  // 2 
+        
+        
+        int q = 32768;
+
+        long long d = 7885455;
         
 /*
         int  ----4 byte = 32 bit ---" -2^31 ~ 2^31-1 "  ：-2147483647.~2147483647.
@@ -25,6 +41,5 @@ int main()
         long ----windows(4 byet) Linux（ 32（4）64（8））--- "-2^31 ~ 2^31-1"  : -32768~32767
         long long--8 byte = 32 bit ----" -2^63 ~ 2^63-1" 
 */
-        long long a = 10;
     return 0;
 }

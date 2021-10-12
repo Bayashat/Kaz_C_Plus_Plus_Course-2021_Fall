@@ -19,7 +19,7 @@ int main()
 
     // 3. қателіктер
     char ch2 = 'b';  //
-    char ch3 = 'f'; //
+    char ch3 = '+'; //
  
     // 4.ASCII кодын карау
     // a --- 97

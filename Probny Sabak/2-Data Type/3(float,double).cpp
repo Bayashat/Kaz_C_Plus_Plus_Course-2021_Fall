@@ -1,7 +1,7 @@
 /*          3. float and double
 
-   Float      4 byte       7 санға дейін  5,614523
-   double     8 byte       15-16санға дейін   168,1245455666
+   Float      4 byte       7 санға дейін  5,614523         
+   double     8 byte       15-16санға дейін   168,1245455666 
  
 */
 #include <iostream>
