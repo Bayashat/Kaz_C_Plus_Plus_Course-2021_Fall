@@ -7,7 +7,7 @@ int main()
     int x;
     cin >> x;   // 16 -  1 2 4 8 16 
      
-    for(int i = 0;  <= x; i++)
+    for(int i = 0; i <= x; i++)
     {
         cout << pow(2, i) << " ";
     }   

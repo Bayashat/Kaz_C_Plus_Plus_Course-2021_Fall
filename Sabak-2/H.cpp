@@ -7,7 +7,7 @@ int main()
     cin >> n; // 6
 
     int Odd = 0;
-    int Even = 3;
+    int Even = 0;
     for(int i = 0; i < n; i++)  // 1 5 3 4 7 2
     {
         int x;
