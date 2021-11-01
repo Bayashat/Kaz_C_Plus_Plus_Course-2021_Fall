@@ -26,9 +26,9 @@ int main()
     printf("%.10f",p);  // 3.1428571429
 
     // 2) Setprecision()
-    cout << setprecision(2);    // үтірден соң 2 сан
+    cout << setprecision(2);    // Үтірдің алды-артын косканда 2 сан
     double num = 22/ 7.0;
-    cout << num << endl;  // 3.14
+    cout << num << endl;  // 3.1
 //*********************************************************************************************************************************************
 ///// 2 . Two integers divide, how to get float number?
     int a = 5;
@@ -41,7 +41,7 @@ int main()
     cout << num; // 2.5
 
     // sol-2
-    double num = a * 1.0 / b;
+    double num = (a * 1.0) / b;
     cout << num ;  // 2 .5
 
     // 3.sizeof

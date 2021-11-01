@@ -34,7 +34,7 @@ int main()
 
                 // 2.3 Print using 
     // 5 4 3 2 1 
-    for(int i = n; i >=0; i--)
+    for(int i = n-1; i >0; i--)
     {
         cout << arr[i] << " ";    // 1 2 3 4 5
     }     
