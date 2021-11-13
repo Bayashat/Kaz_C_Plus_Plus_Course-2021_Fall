@@ -22,7 +22,7 @@ string *s - address of string
 &x - айнымалының адресін алу
 
 */
-void f2(int *a, int *b) // 
+void f2(int* a, int *b) // 
 {
     *a += 10;
     *b += 10;   
