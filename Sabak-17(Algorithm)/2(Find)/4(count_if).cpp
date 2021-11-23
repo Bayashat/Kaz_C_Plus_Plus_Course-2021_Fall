@@ -1,6 +1,6 @@
 /*       	6 count_if
 
-** :ncount_if(iterator beg, iterator end, _Pred);  
+** : count_if(iterator beg, iterator end, _Pred);  
 
   //
 
